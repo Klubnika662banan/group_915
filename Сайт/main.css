@@ -1,0 +1,83 @@
+@font-face {
+    font-family: "GardensC";
+    src: url("../Сайт/fonts/GardensC.otf");
+    }
+    
+    * {
+    font-family: 'GardensC';
+    margin: 0;
+    bottom: 0;
+    letter-spacing: 0;
+    box-sizing: border-box;
+    }
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px;
+} 
+.button_1 a{
+    background: orange;
+    padding: 15px;
+    color: white;
+    border-radius: 15px;
+    text-decoration: none;
+}
+.logo img{
+    height: 60px;
+}
+.hhh{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo{
+    width: 160px;
+}
+.nav a{
+    text-decoration: none;
+    color: black;
+}
+.line{
+    margin: 2px 0;
+    margin-bottom: 5px;
+    color: #e1e1e1;
+    height: 3px;
+}
+.text2{
+    height: 900px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url("../Сайт/Img/lPUSSr8yQGbh5DGwkd1AKULUz2Hhy.jpg");
+    background-position: bottom right -40px;
+}
+.text2{
+    color:white;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+h2{
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+.button_2 a{
+    background: white;
+    padding: 20px;
+    color: black;
+    border-radius: 15px;
+    text-decoration: none;
+    font-weight: 700;
+}
+.button_2{
+    margin-top: 35px;
+}
+.advantages{
+    
+}

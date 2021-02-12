@@ -1,0 +1,223 @@
+.phone{
+    font-size: 20px;
+ display: flex;
+  margin-top: 30px;
+  margin-left: 300px;
+}
+.zakaz{
+    border-radius: 10px;
+    color:white;
+    background-color: orange;
+    height: 40px;
+    width: 160px;
+    position: relative;
+    left: 80%;
+    bottom: 45px;
+}
+.line{
+    height: 2px;
+    width: 100%;
+    background-color: #CCCCCC;
+    position:relative;
+    bottom: 35px;
+}
+.logo{
+    font-weight: bold;
+    font-size: 40px;
+    display: flex;
+    margin-left: 300px;
+}
+.menu{
+    display: flex;
+    margin-left: 55%;
+    font-weight: bold;
+    position: relative;
+    bottom: 30px;
+
+}
+.btn1{
+
+    text-decoration: none;
+    color: black;
+}
+
+.btn2{
+ margin-left: 4px;
+color: black;
+text-decoration: none;
+}    
+
+.btn3{
+    color: black;
+    margin-left: 4px;
+    text-decoration: none;
+}
+.btn4{
+    color: black;
+    text-decoration: none;
+    margin-left: 4px;
+}
+.btn5{
+    color: black;
+    text-decoration: none;
+    margin-left: 4px;
+}
+.btn6{
+    color: black;
+    margin-left: 4px;
+    text-decoration: none;
+}
+.btn7{
+    color: black;
+    text-decoration: none;
+    margin-left: 4px;
+}
+ .textcont1{
+   font-size: 70px;
+   text-align: center;
+   position: relative;
+   bottom: 750px;
+   color:white;
+   font-weight: 100px;
+ }
+.textcont2{
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+    bottom: 730px;
+    color:grey;
+}
+.katalog{
+    font-size:20px;
+    width: 150px;
+    height: 70px;
+    background-color: #fff;
+    position: relative;
+    bottom: 680px;
+    left: 820px;
+    font-weight: bold;
+    border-radius: 15px; 
+}
+.poloska{
+    height: 90px;
+    width: 100%;
+    background-color:orange;
+
+}
+.txtcont3{
+    font-size: 35px;
+    position: relative;
+    bottom: 110px;
+    left: 150px;
+}
+.slider{
+    display: flex;
+    position: relative;
+    left: 80%;
+    bottom:150px ;
+}
+.preimushestva{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 170px;
+    position: relative;
+    right: 90px;
+}
+.preimushestvatxt{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.txtcont4{
+    font-size: 35px;
+    margin-top: 140px;
+position: relative;
+left: 150px;
+}
+.txtcont5{
+    font-size: 25px;
+    margin-left: 150px;
+    margin-top: 50px;
+    margin-bottom: 70px;
+
+}
+.txtcont6{
+    font-size: 25px;
+    margin-left: 150px;
+    margin-bottom: 100px;
+}
+.txtcont7{
+    font-size: 20px;
+    position: relative;
+    bottom:70px;
+    left: 150px;
+    color:#fff;
+}
+.ramka1{
+    background-color:orange;
+    width: 190px;
+    height: 39px;
+    border: 2px solid white;
+    position: relative;
+    top: 23px;
+    left: 30%;
+}
+.ramka2{
+    background-color:orange;
+    width: 190px;
+    height: 39px;
+    border: 2px solid white;
+    position: relative;
+    top: -19px;
+    left: 42.5%;
+}
+.ramka3{
+    background-color:white;
+    width: 150px;
+    height: 41px;
+    position: relative;
+    top: -60px;
+    left: 57%; 
+}
+.txtcont8{
+    position: relative;
+    bottom: 100px;
+    left: 31%;
+    color: white;
+}
+.mail{
+    position: relative;
+    bottom: 117px;
+    left: 43.5%;
+    color: white;
+}
+.txtcont9{
+    position: relative;
+    bottom: 133px ;
+    left: 58%; 
+    text-decoration: none;
+    color: black;
+}
+.osobennosti{
+    font-size: 35px;
+    margin-left: 150px;
+    margin-bottom: 50px;
+}
+
+.minusi{
+    font-size: 23px;
+    display: flex;
+    margin-left: 150px;
+    flex-wrap: wrap;
+}
+.plusi1{
+    font-size: 23px;
+    display: flex;
+    margin-left: 150px;
+    columns: ;
+
+}
